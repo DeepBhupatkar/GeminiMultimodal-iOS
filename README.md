@@ -1,6 +1,6 @@
 # GeminiMultimodal-iOS
 
-# Multimodal iOS App with Gemini AI
+## Multimodal iOS App with Gemini AI
 
 This project is an iOS application integrating Gemini AI, utilizing both Gemini-Pro (text-based input/output) and Gemini-Pro-Vision (text and image-based input/output). The app features a user-friendly interface developed with SwiftUI.
 
